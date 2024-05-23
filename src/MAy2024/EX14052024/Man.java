@@ -1,4 +1,4 @@
-package EX14052024;
+package MAy2024.EX14052024;
 
 public class Man {
     String name;
